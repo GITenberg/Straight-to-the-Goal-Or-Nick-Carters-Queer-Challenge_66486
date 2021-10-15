@@ -1,0 +1,30 @@
+_repo: Straight-to-the-Goal-Or-Nick-Carters-Queer-Challenge_66486
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Carter, Nicholas (House name)
+    alias: Carter, Nick
+    gutenberg_agent_id: '4161'
+    url: http://www.gutenberg.org/2009/agents/4161
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/43953
+    - http://www.gutenberg.org/ebooks/author/1599
+    - http://www.gutenberg.org/ebooks/author/2983
+  editor:
+    agent_name: Carter, Chickering
+    gutenberg_agent_id: '53837'
+    url: http://www.gutenberg.org/2009/agents/53837
+description: ''
+gutenberg_issued: '2021-10-07'
+identifiers:
+  gutenberg: '66486'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Straight to the Goal;
+
+  Or, Nick Carter’s Queer Challenge'
+url: http://www.gutenberg.org/ebooks/66486
